@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["FileOpenerModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.fileopener.FileOpenerModule"]
+  }
+}
